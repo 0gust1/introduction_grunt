@@ -1,0 +1,23 @@
+[
+    "index.md",
+    "introduction.md",
+    "installation.md",
+    [
+        "un-moteur-de-taches.md",
+        "un-moteur-de-taches-1.md",
+        "un-moteur-de-taches-2.md",
+        "la-tache-watch.md"
+    ],
+    [
+        "le-gruntfile.md",
+        "le-gruntfile-1.md"
+    ],
+    [
+        "le-globbing.md",
+        "le-globbing-1.md"
+    ],
+    [
+        "gestion-de-la-configuration.md",
+        "gestion-de-la-configuration-1.md"
+    ]
+]
