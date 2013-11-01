@@ -1,4 +1,4 @@
-##  Le globbing (1)
+##  Fichiers et "globbing" (1)
 
 <pre><code class="javascript">
 // You can specify single files:

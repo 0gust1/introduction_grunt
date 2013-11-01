@@ -1,7 +1,10 @@
 [
     "index.md",
-    "introduction.md",
-    "installation.md",
+    [
+        "introduction.md",
+        "introduction-2.md",
+        "installation.md"
+    ],
     [
         "un-moteur-de-taches.md",
         "un-moteur-de-taches-1.md",
@@ -14,10 +17,16 @@
     ],
     [
         "le-globbing.md",
-        "le-globbing-1.md"
+        "le-globbing-1.md",
+        "le-globbing-2.md"
     ],
     [
+        "trucs-penibles-astuces.md",
+        "le-debug.md",
         "gestion-de-la-configuration.md",
-        "gestion-de-la-configuration-1.md"
-    ]
+        "gestion-de-la-configuration-1.md",
+        "gestion-de-la-configuration-2.md",
+        "utilisation-du-templating.md"
+    ],
+    "references.md"
 ]
