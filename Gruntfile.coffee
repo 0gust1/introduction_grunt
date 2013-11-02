@@ -2,9 +2,9 @@
 module.exports = (grunt) ->
 
     grunt.initConfig
+        pagespeed:
 
         watch:
-
             livereload:
                 options:
                     livereload: true
