@@ -1,0 +1,17 @@
+.reveal pre code{padding:0 0 0 2em; max-height:100%;}
+
+.reveal .slides{text-align: left;}
+
+.reveal h3{margin-top: 0.5em;}
+
+.reveal blockquote{padding:0.7em 1em; width:90%; font-family: serif; background:none; background-color:none;}
+.reveal blockquote{quotes:"«" "»";transform: rotate(5deg);}
+.reveal blockquote:before{content:open-quote;position: absolute; top:0em; left:-0.555em; font-size:6em; color:rgba(0,0,0,0.05);}
+.reveal blockquote:after{content:close-quote;position: absolute; bottom:0.21em; right:-0.555em; font-size:6em; color:rgba(0,0,0,0.05);}
+blockquote .source{font-size: 0.7em; text-align:right; width:100%;}
+.reveal a{color:#1E93D4;}
+.reveal a:link{color:#1E93D4;}
+.reveal a:focus{}
+.reveal a:hover{text-decoration: underline; color:#3A70C0;}
+.reveal a:not(.image):hover{text-decoration: underline; color:#3A70C0;}
+.reveal a:active{}
